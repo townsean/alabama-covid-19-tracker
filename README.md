@@ -9,7 +9,7 @@ Alabama COVID-19 Tracker is a web application that tracks the progression of the
 
 I have been following the coronavirus outbreak with morbid fascination since late January. 
 
-In that time, I have used [worldometer's COVID-19 Coronavirus Outbreak dashboard](https://www.worldometers.info/coronavirus/) and [John Hopkins' Coronavirus COVID-19 Global Cases dashboard](https://coronavirus.jhu.edu/map.html) for my daily updates. When the Alabama Department of Health started to share daily updates, I got the idea it would be neat to create a graphical representation of the data, which at the time, only existed in tabular formaat.
+In that time, I have used [worldometer's COVID-19 Coronavirus Outbreak dashboard](https://www.worldometers.info/coronavirus/) and [John Hopkins' Coronavirus COVID-19 Global Cases dashboard](https://coronavirus.jhu.edu/map.html) for my daily updates. When the Alabama Department of Health started to share daily updates, I got the idea it would be neat to create a graphical representation of the data, which at the time, only existed in tabular format.
 
 Since my idea for the project, the Alabama Department of Health has shared their official dashboard for tracking the diease's progression in Alabama. [You can view it here](https://alpublichealth.maps.arcgis.com/apps/opsdashboard/index.html#/6d2771faa9da4a2786a509d82c8cf0f7).
 
