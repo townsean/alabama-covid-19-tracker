@@ -1,9 +1,9 @@
 # alabama-covid-19-tracker
-A web tracker of the COVID-19 disease progression in Alabama, USA. (Work in Progress)
+A web tracker of the [COVID-19 disease](https://www.cdc.gov/coronavirus/2019-ncov/index.html) progression in Alabama, USA. (Work in Progress)
 
 ## Synopsis
 
-Alabama COVID-19 Tracker is a web application that tracks the progression of the diesease in the state of Alabama. Data for the tracker comes from [Alabama Department of Health's website](http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html).
+Alabama COVID-19 Tracker is a web application that tracks the progression of the COVID-19 diesease in the state of Alabama. Data for the tracker comes from [Alabama Department of Health's website](http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html).
 
 ## Motivation
 
@@ -17,6 +17,8 @@ This almost killed my motivation for pursuing the project, but my secondary goal
 
 1. Write my first web scraper
 2. Learn Go by creating a web service
+
+*Let's go reinvent the wheel!*
 
 ### Why Alabama?
 
