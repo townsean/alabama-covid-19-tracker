@@ -14,4 +14,4 @@ This is a temporary measure until I find time to implement the web scraper compo
 * [March 19, 2020](3-19-2020.jpg)
 * [March 20, 2020](3-20-2020.jpg)
 * [March 21, 2020](3-21-2020.jpg)
-* [March 22, 2020](3-22-2020.jpg)
+* [March 22, 2020](3-22-2020.png)
